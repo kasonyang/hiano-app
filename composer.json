@@ -1,0 +1,17 @@
+{
+    "name": "kasonyang/hiano-app",
+    "description": "A App Demo For Hiano",
+    "authors": [
+        {
+            "name": "kasonyang",
+            "email": "i@kasonyang.com"
+        }
+    ],
+    "type" : "project",
+    "require": {
+        "kasonyang/hiano": "dev-master",
+        "kasonyang/hitar4hiano" : "dev-master",
+        "smarty/smarty": "v3.1.18"
+    },
+    "license" : "MIT"
+}
